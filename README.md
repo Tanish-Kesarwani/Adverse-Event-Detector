@@ -19,22 +19,22 @@ The Adverse Event Detection System is a comprehensive solution designed to help 
 Here's a visual tour of our application interface:
 
 ### Home Page
-![Home Page](../Adverse-Event-Detector/frontend/snapshots/page1.png)
+![Home Page](frontend/snapshots/page1.png)
 *The landing page provides easy navigation to all system features*
 
 ### Recording Dashboard
-![Recording Dashboard](../Adverse-Event-Detector/frontend/snapshots/page2.png)
+![Recording Dashboard](frontend/snapshots/page2.png)
 *Intuitive interface for recording and configuring audio capture settings*
 
 ### Analysis Results and Transcript View
-![Analysis Results](../Adverse-Event-Detector/frontend/snapshots/page3.png)
+![Analysis Results](frontend/snapshots/page3.png)
 *Detailed view of extracted medications, symptoms, and potential adverse events*
 
-![Transcript View](../Adverse-Event-Detector/frontend/snapshots/page4.png)
+![Transcript View](frontend/snapshots/page4.png)
 *Full conversation transcript with speaker identification*
 
 ### Confidence Analysis 
-![Settings Panel](../Adverse-Event-Detector/frontend/snapshots/page5.png)
+![Settings Panel](frontend/snapshots/page5.png)
 *Confidence analysis for medication and symptom detection*
 
 ## System Architecture
